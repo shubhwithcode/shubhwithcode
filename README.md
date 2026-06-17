@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Shubham+Vishwakarma;B.Sc+IT+Student;Full+Stack+Web+Developer;Creator+of+LocalBasket" />
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Shubham Vishwakarma
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Web+Developer;B.Sc+IT+Student;Creator+of+LocalBasket;Node.js+%7C+JavaScript+%7C+MySQL" />
 </p>
 # Hi 👋, I'm Shubham Vishwakarma
 
