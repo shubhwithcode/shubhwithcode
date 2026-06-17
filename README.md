@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Shubham+Vishwakarma;B.Sc+IT+Student;Full+Stack+Web+Developer;Creator+of+LocalBasket" />
+</p>
 # Hi 👋, I'm Shubham Vishwakarma
 
 ### B.Sc IT Student | Full Stack Web Developer
