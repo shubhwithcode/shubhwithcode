@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Vishwakarma
 
-<!--
-**shubhwithcode/shubhwithcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc IT Student | Full Stack Web Developer
 
-Here are some ideas to get you started:
+🚀 Creator of **LocalBasket**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* MySQL
+
+### Projects
+
+#### 🛒 LocalBasket
+
+Local grocery marketplace connecting customers with nearby stores.
+
+#### 🪑 Vishwakarma Enterprises
+
+Furniture Manufacturing & Interior Solutions.
+
+#### 🎨 MR Banner
+
+Banner and graphic design assets.
+
+### Connect With Me
+
+* GitHub: https://github.com/shubhwithcode
+* Website: https://localbasket.co.in
+
+### Currently Learning
+
+* Advanced Node.js
+* System Design
+* Full Stack Development
