@@ -41,7 +41,7 @@ Banner and graphic design assets.
 ### Connect With Me
 
 * GitHub: https://github.com/shubhwithcode
-* Website: https://localbasket.co.in
+* Website: https://shubhwithcode.site
 
 ### Currently Learning
 
